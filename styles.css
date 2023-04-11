@@ -106,7 +106,6 @@ main{
     margin-top: -40px;
     border: white solid 7px;
     border-radius: 50%;
-    max-width: 1em;
 }
 
 .card_body div{
@@ -164,6 +163,12 @@ main{
         height: 180vh;
         right: -306px;
         bottom:  -880px;
+    }
+
+    .card .card_body .user-img{
+        width: 7%;
+        left: 46%;
+        top: 300px;
     }
 }
 
